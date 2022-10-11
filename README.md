@@ -9,7 +9,7 @@ A movies search engine, based on moives from imdB.
 
 ## Screenshots
 
-![App Screenshot](src/assets/screenshot.png)
+![App Screenshot](src/assets/screenshot2.png)
 
 
 ## Acknowledgements
