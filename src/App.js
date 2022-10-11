@@ -6,7 +6,8 @@ import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from "./MovieCard";
 
-const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=63874c69';
+const API_URL = `https://www.omdbapi.com/?i=tt3896198&apikey=63874c69`;
+//const API_URL = `https://www.omdbapi.com/?i=${import.meta.env.REACT_APP_I}&apikey=${import.meta.env.REACT_APP_APIKEY}`;
 
 // const movie1 = {
 //     "Title": "Docter Strange",
